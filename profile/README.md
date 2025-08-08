@@ -10,5 +10,5 @@ I Bulder jobber utviklere, designere og forretningsutviklere tett sammen for å 
 - **Samarbeid:** Arbeidet organiseres i tverrfaglige team med felles mål.
 - **Forbedring:** Kultur for kontinuerlig læring og å utfordre etablerte løsninger.
 
-Les mer om vår [Way of Work](https://github.com/bulderbank/way-of-work/README.md)  
+Les mer om vår [Way of Work](https://github.com/bulderbank/way-of-work)  
 Besøk [bulder.no](https://bulder.no) for mer informasjon.
